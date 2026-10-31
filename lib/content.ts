@@ -36,8 +36,8 @@ export const projects: Project[] = [
     did: "I built it for a real client, my brother, from his written requirements, delivered it live and keep maintaining it. The rider's fee stays out of the shop's total, invoice numbers never skip, and row-level security in Postgres keeps each owner's data separate.",
     stack: ["Next.js 16", "Express", "Postgres RLS", "TypeScript", "Playwright"],
     tests: [
-      { n: "159", label: "API and database tests passed" },
-      { n: "78", label: "browser test runs passed" },
+      { n: "207", label: "API and database tests passed" },
+      { n: "142", label: "browser test runs passed" },
     ],
     demo: "https://zindex-seven.vercel.app/",
     repo: "Zindex",
